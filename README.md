@@ -37,8 +37,8 @@ A combinational circuit is a circuit in which the output depends on the present 
 ```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber: 212223240036
+Developed by: RESMI R S
+RegisterNumber: 212224050037
 
 */
 ```
